@@ -1,0 +1,41 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1703903157047,
+      "tag": "0000_short_spectrum",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1703906407788,
+      "tag": "0001_shocking_bug",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1704412867087,
+      "tag": "0002_productive_lethal_legion",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1704414102495,
+      "tag": "0003_regular_slapstick",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1704414283090,
+      "tag": "0004_neat_amazoness",
+      "breakpoints": true
+    }
+  ]
+}
